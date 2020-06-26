@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/models/page_manager.dart';
-import 'package:loja_escorpiao_rei/models/user_manager.dart';
+import 'package:lojaescorpiaorei/models/page_manager.dart';
+import 'package:lojaescorpiaorei/models/user_manager.dart';
 import 'package:provider/provider.dart';
 
 class CustomDrawerHeader extends StatelessWidget {

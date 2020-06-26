@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/models/home_manager.dart';
-import 'package:loja_escorpiao_rei/models/section.dart';
-import 'package:loja_escorpiao_rei/screens/home/components/add_tile_widget.dart';
-import 'package:loja_escorpiao_rei/screens/home/components/item_tile.dart';
-import 'package:loja_escorpiao_rei/screens/home/components/section_header.dart';
+import 'package:lojaescorpiaorei/models/home_manager.dart';
+import 'package:lojaescorpiaorei/models/section.dart';
+import 'package:lojaescorpiaorei/screens/home/components/add_tile_widget.dart';
+import 'package:lojaescorpiaorei/screens/home/components/item_tile.dart';
+import 'package:lojaescorpiaorei/screens/home/components/section_header.dart';
 import 'package:provider/provider.dart';
 
 class SectionList extends StatelessWidget {

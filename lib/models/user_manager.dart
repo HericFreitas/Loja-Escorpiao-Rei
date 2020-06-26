@@ -2,8 +2,8 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
-import 'package:loja_escorpiao_rei/helpers/firebase_errors.dart';
-import 'package:loja_escorpiao_rei/models/user.dart';
+import 'package:lojaescorpiaorei/helpers/firebase_errors.dart';
+import 'package:lojaescorpiaorei/models/user.dart';
 
 class UserManager extends ChangeNotifier {
 

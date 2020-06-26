@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/common/order/cancel_order_dialog.dart';
-import 'package:loja_escorpiao_rei/common/order/order_product_tile.dart';
-import 'package:loja_escorpiao_rei/models/order.dart';
+import 'package:lojaescorpiaorei/common/order/cancel_order_dialog.dart';
+import 'package:lojaescorpiaorei/common/order/order_product_tile.dart';
+import 'package:lojaescorpiaorei/models/order.dart';
 
 class OrderTile extends StatelessWidget {
   const OrderTile(this.order, {this.showControls = false});

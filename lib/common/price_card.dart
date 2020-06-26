@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/models/cart_manager.dart';
+import 'package:lojaescorpiaorei/models/cart_manager.dart';
 import 'package:provider/provider.dart';
 
 class PriceCard extends StatelessWidget {

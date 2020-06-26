@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/models/product.dart';
-import 'package:loja_escorpiao_rei/models/product_manager.dart';
-import 'package:loja_escorpiao_rei/screens/edit_product/components/images_form.dart';
-import 'package:loja_escorpiao_rei/screens/edit_product/components/sizes_form.dart';
+import 'package:lojaescorpiaorei/models/product.dart';
+import 'package:lojaescorpiaorei/models/product_manager.dart';
+import 'package:lojaescorpiaorei/screens/edit_product/components/images_form.dart';
+import 'package:lojaescorpiaorei/screens/edit_product/components/sizes_form.dart';
 import 'package:provider/provider.dart';
 
 class EditProductScreen extends StatelessWidget {

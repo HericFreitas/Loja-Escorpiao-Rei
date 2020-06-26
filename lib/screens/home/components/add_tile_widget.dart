@@ -1,9 +1,9 @@
 import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/models/section.dart';
-import 'package:loja_escorpiao_rei/models/section_item.dart';
-import 'package:loja_escorpiao_rei/screens/edit_product/components/image_source_sheet.dart';
+import 'package:lojaescorpiaorei/models/section.dart';
+import 'package:lojaescorpiaorei/models/section_item.dart';
+import 'package:lojaescorpiaorei/screens/edit_product/components/image_source_sheet.dart';
 import 'package:provider/provider.dart';
 
 class AddTileWidget extends StatelessWidget {

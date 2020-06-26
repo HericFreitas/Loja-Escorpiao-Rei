@@ -2,8 +2,8 @@ import 'dart:async';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:loja_escorpiao_rei/models/user.dart';
-import 'package:loja_escorpiao_rei/models/user_manager.dart';
+import 'package:lojaescorpiaorei/models/user.dart';
+import 'package:lojaescorpiaorei/models/user_manager.dart';
 
 class AdminUsersManager extends ChangeNotifier {
 

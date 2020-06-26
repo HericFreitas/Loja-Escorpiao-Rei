@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/models/order.dart';
+import 'package:lojaescorpiaorei/models/order.dart';
 
 class CancelOrderDialog extends StatelessWidget {
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/common/custom_drawer/custom_drawer.dart';
+import 'package:lojaescorpiaorei/common/custom_drawer/custom_drawer.dart';
 
 class HomeScreen extends StatelessWidget {
   @override

@@ -1,9 +1,9 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:loja_escorpiao_rei/models/cart_product.dart';
-import 'package:loja_escorpiao_rei/models/product.dart';
-import 'package:loja_escorpiao_rei/models/user.dart';
-import 'package:loja_escorpiao_rei/models/user_manager.dart';
+import 'package:lojaescorpiaorei/models/cart_product.dart';
+import 'package:lojaescorpiaorei/models/product.dart';
+import 'package:lojaescorpiaorei/models/user.dart';
+import 'package:lojaescorpiaorei/models/user_manager.dart';
 
 class CartManager extends ChangeNotifier {
 

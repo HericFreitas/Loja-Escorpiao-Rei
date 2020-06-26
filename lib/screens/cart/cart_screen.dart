@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/common/empty_card.dart';
-import 'package:loja_escorpiao_rei/common/login_card.dart';
-import 'package:loja_escorpiao_rei/common/price_card.dart';
-import 'package:loja_escorpiao_rei/models/cart_manager.dart';
-import 'package:loja_escorpiao_rei/screens/cart/components/cart_tile.dart';
+import 'package:lojaescorpiaorei/common/empty_card.dart';
+import 'package:lojaescorpiaorei/common/login_card.dart';
+import 'package:lojaescorpiaorei/common/price_card.dart';
+import 'package:lojaescorpiaorei/models/cart_manager.dart';
+import 'package:lojaescorpiaorei/screens/cart/components/cart_tile.dart';
 import 'package:provider/provider.dart';
 
 class CartScreen extends StatelessWidget {

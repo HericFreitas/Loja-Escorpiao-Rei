@@ -8,38 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1036515230396:android:b4244f068afdcb6e0806b9",
+        "mobilesdk_app_id": "1:1036515230396:android:571f6b41c9aa0c820806b9",
         "android_client_info": {
-          "package_name": "com.example.gerencia_if"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "1036515230396-bcne04ue7odv61i7f956sblgijjig0qh.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAjQiaPN5mAPeB9PahOsyLsOPtUI1V9imw"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1036515230396-bcne04ue7odv61i7f956sblgijjig0qh.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:1036515230396:android:51459b0015a4a5d30806b9",
-        "android_client_info": {
-          "package_name": "com.example.loja_escorpiao_rei"
+          "package_name": "com.hericfreitas.lojaescorpiaorei"
         }
       },
       "oauth_client": [

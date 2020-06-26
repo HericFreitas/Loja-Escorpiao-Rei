@@ -1,11 +1,11 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/models/home_manager.dart';
-import 'package:loja_escorpiao_rei/models/product.dart';
-import 'package:loja_escorpiao_rei/models/product_manager.dart';
-import 'package:loja_escorpiao_rei/models/section.dart';
-import 'package:loja_escorpiao_rei/models/section_item.dart';
+import 'package:lojaescorpiaorei/models/home_manager.dart';
+import 'package:lojaescorpiaorei/models/product.dart';
+import 'package:lojaescorpiaorei/models/product_manager.dart';
+import 'package:lojaescorpiaorei/models/section.dart';
+import 'package:lojaescorpiaorei/models/section_item.dart';
 import 'package:provider/provider.dart';
 import 'package:transparent_image/transparent_image.dart';
 

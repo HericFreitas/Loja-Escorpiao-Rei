@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/common/custom_drawer/custom_drawer.dart';
-import 'package:loja_escorpiao_rei/models/product_manager.dart';
-import 'package:loja_escorpiao_rei/models/user_manager.dart';
-import 'package:loja_escorpiao_rei/screens/products/components/product_list_tile.dart';
-import 'package:loja_escorpiao_rei/screens/products/components/search_dialog.dart';
+import 'package:lojaescorpiaorei/common/custom_drawer/custom_drawer.dart';
+import 'package:lojaescorpiaorei/models/product_manager.dart';
+import 'package:lojaescorpiaorei/models/user_manager.dart';
+import 'package:lojaescorpiaorei/screens/products/components/product_list_tile.dart';
+import 'package:lojaescorpiaorei/screens/products/components/search_dialog.dart';
 import 'package:provider/provider.dart';
 
 class ProductsScreen extends StatelessWidget {

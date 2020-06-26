@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/common/custom_drawer/custom_drawer_header.dart';
-import 'package:loja_escorpiao_rei/common/custom_drawer/drawer_tile.dart';
-import 'package:loja_escorpiao_rei/models/user_manager.dart';
+import 'package:lojaescorpiaorei/common/custom_drawer/custom_drawer_header.dart';
+import 'package:lojaescorpiaorei/common/custom_drawer/drawer_tile.dart';
+import 'package:lojaescorpiaorei/models/user_manager.dart';
+import 'package:lojaescorpiaorei/common/custom_drawer/custom_drawer_header.dart';
 import 'package:provider/provider.dart';
 
 class CustomDrawer extends StatelessWidget {

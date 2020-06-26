@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/models/cart_product.dart';
+import 'package:lojaescorpiaorei/models/cart_product.dart';
 
 class OrderProductTile extends StatelessWidget {
 

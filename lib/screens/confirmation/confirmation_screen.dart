@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/common/order/order_product_tile.dart';
-import 'package:loja_escorpiao_rei/models/order.dart';
+import 'package:lojaescorpiaorei/common/order/order_product_tile.dart';
+import 'package:lojaescorpiaorei/models/order.dart';
 
 class ConfirmationScreen extends StatelessWidget {
 

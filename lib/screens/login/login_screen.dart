@@ -1,8 +1,8 @@
-import 'package:loja_escorpiao_rei/models/user.dart';
-import 'package:loja_escorpiao_rei/models/user_manager.dart';
+import 'package:lojaescorpiaorei/models/user.dart';
+import 'package:lojaescorpiaorei/models/user_manager.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/helpers/validators.dart';
+import 'package:lojaescorpiaorei/helpers/validators.dart';
 
 class LoginScreen extends StatelessWidget {
 

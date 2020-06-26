@@ -2,8 +2,8 @@ import 'dart:async';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:loja_escorpiao_rei/models/order.dart';
-import 'package:loja_escorpiao_rei/models/user.dart';
+import 'package:lojaescorpiaorei/models/order.dart';
+import 'package:lojaescorpiaorei/models/user.dart';
 
 class AdminOrdersManager extends ChangeNotifier {
 

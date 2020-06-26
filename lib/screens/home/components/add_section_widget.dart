@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/models/home_manager.dart';
-import 'package:loja_escorpiao_rei/models/section.dart';
+import 'package:lojaescorpiaorei/models/home_manager.dart';
+import 'package:lojaescorpiaorei/models/section.dart';
 
 class AddSectionWidget extends StatelessWidget {
 

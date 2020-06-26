@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:loja_escorpiao_rei/models/cart_manager.dart';
-import 'package:loja_escorpiao_rei/models/cart_product.dart';
+import 'package:lojaescorpiaorei/models/cart_manager.dart';
+import 'package:lojaescorpiaorei/models/cart_product.dart';
 
 enum Status { canceled, preparing, transporting, delivered }
 

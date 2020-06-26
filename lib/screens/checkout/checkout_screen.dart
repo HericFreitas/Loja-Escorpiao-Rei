@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/common/price_card.dart';
-import 'package:loja_escorpiao_rei/models/cart_manager.dart';
-import 'package:loja_escorpiao_rei/models/checkout_manager.dart';
+import 'package:lojaescorpiaorei/common/price_card.dart';
+import 'package:lojaescorpiaorei/models/cart_manager.dart';
+import 'package:lojaescorpiaorei/models/checkout_manager.dart';
 import 'package:provider/provider.dart';
 
 class CheckoutScreen extends StatelessWidget {

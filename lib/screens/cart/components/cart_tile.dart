@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/common/custom_icon_button.dart';
-import 'package:loja_escorpiao_rei/models/cart_product.dart';
+import 'package:lojaescorpiaorei/common/custom_icon_button.dart';
+import 'package:lojaescorpiaorei/models/cart_product.dart';
 import 'package:provider/provider.dart';
 
 class CartTile extends StatelessWidget {

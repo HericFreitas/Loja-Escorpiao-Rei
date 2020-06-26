@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/models/item_size.dart';
-import 'package:loja_escorpiao_rei/models/product.dart';
+import 'package:lojaescorpiaorei/models/item_size.dart';
+import 'package:lojaescorpiaorei/models/product.dart';
 import 'package:provider/provider.dart';
 
 class SizeWidget extends StatelessWidget {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/helpers/validators.dart';
-import 'package:loja_escorpiao_rei/models/user.dart';
-import 'package:loja_escorpiao_rei/models/user_manager.dart';
+import 'package:lojaescorpiaorei/helpers/validators.dart';
+import 'package:lojaescorpiaorei/models/user.dart';
+import 'package:lojaescorpiaorei/models/user_manager.dart';
 import 'package:provider/provider.dart';
 
 class SignUpScreen extends StatelessWidget {

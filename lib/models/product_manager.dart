@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:loja_escorpiao_rei/models/product.dart';
+import 'package:lojaescorpiaorei/models/product.dart';
 
 class ProductManager extends ChangeNotifier{
 

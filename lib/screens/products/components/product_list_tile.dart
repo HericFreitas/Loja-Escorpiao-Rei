@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/models/product.dart';
+import 'package:lojaescorpiaorei/models/product.dart';
 
 class ProductListTile extends StatelessWidget {
 

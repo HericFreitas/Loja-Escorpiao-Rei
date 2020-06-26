@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/common/custom_icon_button.dart';
-import 'package:loja_escorpiao_rei/models/item_size.dart';
+import 'package:lojaescorpiaorei/common/custom_icon_button.dart';
+import 'package:lojaescorpiaorei/models/item_size.dart';
 
 class EditItemSize extends StatelessWidget {
 

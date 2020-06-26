@@ -1,9 +1,9 @@
 import 'package:carousel_pro/carousel_pro.dart';
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/models/cart_manager.dart';
-import 'package:loja_escorpiao_rei/models/product.dart';
-import 'package:loja_escorpiao_rei/models/user_manager.dart';
-import 'package:loja_escorpiao_rei/screens/product/components/size_widget.dart';
+import 'package:lojaescorpiaorei/models/cart_manager.dart';
+import 'package:lojaescorpiaorei/models/product.dart';
+import 'package:lojaescorpiaorei/models/user_manager.dart';
+import 'package:lojaescorpiaorei/screens/product/components/size_widget.dart';
 import 'package:provider/provider.dart';
 
 class ProductScreen extends StatelessWidget {

@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:loja_escorpiao_rei/models/section.dart';
+import 'package:lojaescorpiaorei/models/section.dart';
 
 class HomeManager extends ChangeNotifier {
   

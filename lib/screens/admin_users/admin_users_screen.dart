@@ -1,9 +1,9 @@
 import 'package:alphabet_list_scroll_view/alphabet_list_scroll_view.dart';
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/common/custom_drawer/custom_drawer.dart';
-import 'package:loja_escorpiao_rei/models/admin_orders_manager.dart';
-import 'package:loja_escorpiao_rei/models/admin_users_manager.dart';
-import 'package:loja_escorpiao_rei/models/page_manager.dart';
+import 'package:lojaescorpiaorei/common/custom_drawer/custom_drawer.dart';
+import 'package:lojaescorpiaorei/models/admin_orders_manager.dart';
+import 'package:lojaescorpiaorei/models/admin_users_manager.dart';
+import 'package:lojaescorpiaorei/models/page_manager.dart';
 import 'package:provider/provider.dart';
 
 class AdminUsersScreen extends StatelessWidget {

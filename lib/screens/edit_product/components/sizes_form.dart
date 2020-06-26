@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/common/custom_icon_button.dart';
-import 'package:loja_escorpiao_rei/models/item_size.dart';
-import 'package:loja_escorpiao_rei/models/product.dart';
-import 'package:loja_escorpiao_rei/screens/edit_product/components/edit_item_size.dart';
+import 'package:lojaescorpiaorei/common/custom_icon_button.dart';
+import 'package:lojaescorpiaorei/models/item_size.dart';
+import 'package:lojaescorpiaorei/models/product.dart';
+import 'package:lojaescorpiaorei/screens/edit_product/components/edit_item_size.dart';
 
 class SizesForm extends StatelessWidget {
 

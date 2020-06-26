@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/common/custom_icon_button.dart';
-import 'package:loja_escorpiao_rei/models/home_manager.dart';
-import 'package:loja_escorpiao_rei/models/section.dart';
+import 'package:lojaescorpiaorei/common/custom_icon_button.dart';
+import 'package:lojaescorpiaorei/models/home_manager.dart';
+import 'package:lojaescorpiaorei/models/section.dart';
 import 'package:provider/provider.dart';
 
 class SectionHeader extends StatelessWidget {

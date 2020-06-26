@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:loja_escorpiao_rei/models/product_manager.dart';
+import 'package:lojaescorpiaorei/models/product_manager.dart';
 import 'package:provider/provider.dart';
 
 class SelectProductScreen extends StatelessWidget {
