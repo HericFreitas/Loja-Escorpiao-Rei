@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1036515230396",
+    "firebase_url": "https://atletica-escorpiao-rei.firebaseio.com",
+    "project_id": "atletica-escorpiao-rei",
+    "storage_bucket": "atletica-escorpiao-rei.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036515230396:android:b4244f068afdcb6e0806b9",
+        "android_client_info": {
+          "package_name": "com.example.gerencia_if"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036515230396-bcne04ue7odv61i7f956sblgijjig0qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjQiaPN5mAPeB9PahOsyLsOPtUI1V9imw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036515230396-bcne04ue7odv61i7f956sblgijjig0qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036515230396:android:51459b0015a4a5d30806b9",
+        "android_client_info": {
+          "package_name": "com.example.loja_escorpiao_rei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036515230396-bcne04ue7odv61i7f956sblgijjig0qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjQiaPN5mAPeB9PahOsyLsOPtUI1V9imw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036515230396-bcne04ue7odv61i7f956sblgijjig0qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
